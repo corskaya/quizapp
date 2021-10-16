@@ -1,38 +1,143 @@
-.App {
-  text-align: center;
+.btn-warning {
+    border: black solid 1px;
+    height: 100px;
+    margin-top: 50px;
+    font-size: 20px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.question {
+    text-align: center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.center {
+    margin-top: 60px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.time {
+    margin: auto;
+    width: 25%;
+    margin-top: 6%;
+    text-align: center;
+    font-size: 18px;
+    background-color: white;
+    padding: 8px;
+    border: black solid 1px;
+    border-radius: 3px;
 }
 
-.App-link {
-  color: #61dafb;
+.correct {
+    font-size: 25px;
+    color: green;
+    text-align: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.wrong {
+    font-size: 25px;
+    color: red;
+    text-align: center;
+}
+
+.detector {
+    margin-top: 8%;
+}
+
+.score {
+    margin-top: 8%;
+    font-size: 18px;
+    background-color: #ffc404;
+    padding: 8px;
+    border: black solid 1px;
+    border-radius: 3px;
+}
+
+.correctCount {
+    margin-top: 8%;
+    font-size: 18px;
+    background-color: #5cb85c;
+    padding: 8px;
+    border: black solid 1px;
+    border-radius: 3px;
+}
+
+.wrongCount {
+    margin-top: 8%;
+    font-size: 18px;
+    background-color: #dc3545;
+    padding: 8px;
+    border: black solid 1px;
+    border-radius: 3px;
+}
+
+.startButton {
+    font-size: 18px;
+    background-color: #5cb85c;
+    padding: 8px;
+    border: black solid 1px;
+    border-radius: 3px;
+    text-align: center;
+    width: 150px;
+    padding: 10px;
+}
+
+.startButtonCenter {
+    margin-top: 50px;
+}
+
+.vocQuiz {
+    text-align: center;
+    margin: auto;
+    margin-top: 23%;
+    background-color: #ffc404;
+    border: black solid 1px;
+    border-radius: 3px;
+    width: 300px;
+    height: 100px;
+    line-height: 70px;
+    padding: 10px;
+}
+
+.finalScore {
+    width: 50%;
+    margin: auto;
+    margin-top: 8%;
+    font-size: 18px;
+    background-color: #ffc404;
+    padding: 8px;
+    border: black solid 1px;
+    border-radius: 3px;
+}
+
+.finalCorrect {
+    width: 50%;
+    margin: auto;
+    margin-top: 4%;
+    font-size: 18px;
+    background-color: #5cb85c;
+    padding: 8px;
+    border: black solid 1px;
+    border-radius: 3px;
+}
+
+.finalWrong {
+    width: 50%;
+    margin: auto;
+    margin-top: 4%;
+    font-size: 18px;
+    background-color: #dc3545;
+    padding: 8px;
+    border: black solid 1px;
+    border-radius: 3px;
+}
+
+.timeIsUp {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.tryAgain {
+    margin:auto;
+    margin-top: 10%;
+    font-size: 18px;
+    border: black solid 1px;
+    border-radius: 3px;
 }
