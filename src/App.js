@@ -9,39 +9,45 @@ class App extends React.Component {
     super(props);
     this.state = {
       isStarted: false,
-      isUp: false
-    }
+      isUp: false,
+    };
   }
 
   getFromStart(startData) {
     this.setState({
-      isStarted: startData
-    })
+      isStarted: startData,
+    });
   }
 
   getFromTime(timeData) {
     this.setState({
       isUp: timeData,
-      isStarted: false
-    })
+      isStarted: false,
+    });
   }
 
   getFromQuestion(score, correct, wrong) {
     this.setState({
       score: score,
       correctAnswer: correct,
-      wrongAnswer: wrong
-    })
+      wrongAnswer: wrong,
+    });
   }
 
   getFromFinalScore() {
     this.setState({
-      isStarted: true
-    })
+      isStarted: true,
+    });
   }
 
   render() {
-    if (this.state.isStarted) {
+    if (!this.state.isStarted && !this.state.isUp) {
+      return (
+        <div>
+          <Start data={this.getFromStart.bind(this)} />
+        </div>
+      );
+    } else if (!this.state.isUp) {
       return (
         <div>
           <div>
@@ -52,12 +58,6 @@ class App extends React.Component {
           </div>
         </div>
       );
-    } else if (!this.state.isStarted && !this.state.isUp) {
-      return (
-        <div>
-          <Start data={this.getFromStart.bind(this)} />
-        </div>
-      );
     } else {
       return (
         <div>
@@ -65,10 +65,10 @@ class App extends React.Component {
             finalScore={this.state.score}
             correctNumber={this.state.correctAnswer}
             wrongNumber={this.state.wrongAnswer}
-            data={this.getFromFinalScore.bind(this)} />
+            data={this.getFromFinalScore.bind(this)}
+          />
         </div>
       );
-
     }
   }
 }
