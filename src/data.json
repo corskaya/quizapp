@@ -1,289 +1,289 @@
 [
-    {
-        "id": 0,
-        "question": "Korku",
-        "answer1": "Dread",
-        "answer2": "Deal",
-        "answer3": "Dead"
-    },
-    {
-        "id": 1,
-        "question": "Yaygın",
-        "answer1": "Pervasive",
-        "answer2": "Persuasive",
-        "answer3": "Prescription"
-    },
-    {
-        "id": 2,
-        "question": "Zorba",
-        "answer1": "Bully",
-        "answer2": "Burden",
-        "answer3": "Bull"
-    },
-    {
-        "id": 3,
-        "question": "Belirsiz",
-        "answer1": "Ambigous",
-        "answer2": "Ambitious",
-        "answer3": "Anxious"
-    },
-    {
-        "id": 4,
-        "question": "İstekli",
-        "answer1": "Eager",
-        "answer2": "Eagle",
-        "answer3": "Enable"
-    },
-    {
-        "id": 5,
-        "question": "Sarsıntı / Dürtü",
-        "answer1": "Jolt",
-        "answer2": "Table",
-        "answer3": "Pencil"
-    },
-    {
-        "id": 6,
-        "question": "Öğle vakti",
-        "answer1": "Noonday",
-        "answer2": "Morning",
-        "answer3": "Afternoon"
-    },
-    {
-        "id": 7,
-        "question": "Sokağa çıkma yasağı / Karantina",
-        "answer1": "Lockdown",
-        "answer2": "Knock out",
-        "answer3": "Float"
-    },
-    {
-        "id": 8,
-        "question": "Benzemek",
-        "answer1": "Resemble",
-        "answer2": "Unify",
-        "answer3": "Simplify"
-    },
-    {
-        "id": 9,
-        "question": "Aşama",
-        "answer1": "Stage",
-        "answer2": "Stone",
-        "answer3": "Stick"
-    },
-    {
-        "id": 10,
-        "question": "Şart koşmak / Şartları belirlemek",
-        "answer1": "Stipulate",
-        "answer2": "Suppress",
-        "answer3": "Success"
-    },
-    {
-        "id": 11,
-        "question": "Konu",
-        "answer1": "Topic",
-        "answer2": "Tense",
-        "answer3": "Tonic"
-    },
-    {
-        "id": 12,
-        "question": "Nadiren / Pek az",
-        "answer1": "Seldom",
-        "answer2": "Probable",
-        "answer3": "Often"
-    },
-    {
-        "id": 13,
-        "question": "İşkence / Eziyet",
-        "answer1": "Torture",
-        "answer2": "Treaty",
-        "answer3": "Threat"
-    },
-    {
-        "id": 14,
-        "question": "Alçak gönüllü",
-        "answer1": "Humble",
-        "answer2": "Bundle",
-        "answer3": "Hidden"
-    },
-    {
-        "id": 15,
-        "question": "Hak etmek",
-        "answer1": "Deserve",
-        "answer2": "Desert",
-        "answer3": "Dessert"
-    },
-    {
-        "id": 16,
-        "question": "Cahil / Bilgisiz",
-        "answer1": "Ignorant",
-        "answer2": "Religion",
-        "answer3": "Cure"
-    },
-    {
-        "id": 17,
-        "question": "Hariç / Dışında",
-        "answer1": "Except",
-        "answer2": "Accept",
-        "answer3": "Expert"
-    },
-    {
-        "id": 18,
-        "question": "Etkilemek",
-        "answer1": "Affect",
-        "answer2": "Effect",
-        "answer3": "Detect"
-    },
-    {
-        "id": 19,
-        "question": "Ele geçirmek",
-        "answer1": "Capture",
-        "answer2": "Correlate",
-        "answer3": "Deny"
-    },
-    {
-        "id": 20,
-        "question": "Etkilemek",
-        "answer1": "Affect",
-        "answer2": "Effect",
-        "answer3": "Detect"
-    },
-    {
-        "id": 21,
-        "question": "Dövüşmek",
-        "answer1": "Combat",
-        "answer2": "Flight",
-        "answer3": "Compress"
-    },
-    {
-        "id": 22,
-        "question": "İlişkisi / Alakası olmak",
-        "answer1": "Correlate",
-        "answer2": "Encompass",
-        "answer3": "Alienate"
-    },
-    {
-        "id": 23,
-        "question": "Yabancılaştırmak",
-        "answer1": "Alienate",
-        "answer2": "Desire",
-        "answer3": "Despite"
-    },
-    {
-        "id": 24,
-        "question": "Gidip getirmek",
-        "answer1": "Fetch",
-        "answer2": "Watch",
-        "answer3": "Fate"
-    },
-    {
-        "id": 25,
-        "question": "İnkar etmek",
-        "answer1": "Deny",
-        "answer2": "Confess",
-        "answer3": "Admit"
-    },
-    {
-        "id": 26,
-        "question": "Arzulamak",
-        "answer1": "Desire",
-        "answer2": "Derive",
-        "answer3": "Desperate"
-    },
-    {
-        "id": 27,
-        "question": "Danışman",
-        "answer1": "Counselor",
-        "answer2": "Commissioner",
-        "answer3": "Adjudicator"
-    },
-    {
-        "id": 28,
-        "question": "Tepki vermek",
-        "answer1": "React",
-        "answer2": "Reflex",
-        "answer3": "Reflect"
-    },
-    {
-        "id": 29,
-        "question": "Dönmek / Döndürmek",
-        "answer1": "Revolve",
-        "answer2": "Collapse",
-        "answer3": "Evolve"
-    },
-    {
-        "id": 30,
-        "question": "Affect",
-        "answer1": "Etkilemek",
-        "answer2": "Bilim kurgu",
-        "answer3": "Terk etmek"
-    },
-    {
-        "id": 31,
-        "question": "Alienate",
-        "answer1": "Yabancılaştırmak",
-        "answer2": "Görmezden gelmek",
-        "answer3": "Çekici olmak"
-    },
-    {
-        "id": 32,
-        "question": "Capture",
-        "answer1": "Ele geçirmek",
-        "answer2": "Mürettebat",
-        "answer3": "Lider olmak"
-    },
-    {
-        "id": 33,
-        "question": "Combat",
-        "answer1": "Dövüşmek",
-        "answer2": "Birleştirmek",
-        "answer3": "Koyulaştırmak"
-    },
-    {
-        "id": 34,
-        "question": "Correlate",
-        "answer1": "İlişkisi olmak",
-        "answer2": "Matematiksel",
-        "answer3": "Gösterişli"
-    },
-    {
-        "id": 35,
-        "question": "Applause",
-        "answer1": "Alkışlamak",
-        "answer2": "Onaylamak",
-        "answer3": "İnkar etmek"
-    },
-    {
-        "id": 36,
-        "question": "Raise",
-        "answer1": "Yükseltmek",
-        "answer2": "Çökertmek",
-        "answer3": "Kapsamak"
-    },
-    {
-        "id": 37,
-        "question": "Compliment",
-        "answer1": "İltifat",
-        "answer2": "İtiraz",
-        "answer3": "İtiraf"
-    },
-    {
-        "id": 38,
-        "question": "Compel",
-        "answer1": "Zorlamak",
-        "answer2": "Hecelemek",
-        "answer3": "Haykırmak"
-    },
-    {
-        "id": 39,
-        "question": "Repugnant",
-        "answer1": "Aykırı",
-        "answer2": "Çekici",
-        "answer3": "Zarif"
-    },
-    {
-        "id": 40,
-        "question": "Disguise",
-        "answer1": "Kılık değiştirmek",
-        "answer2": "Tartışmak",
-        "answer3": "Tartılmak"
-    }
+  {
+    "id": 0,
+    "question": "Korku",
+    "answer1": "Dread",
+    "answer2": "Deal",
+    "answer3": "Dead"
+  },
+  {
+    "id": 1,
+    "question": "Yaygın",
+    "answer1": "Pervasive",
+    "answer2": "Persuasive",
+    "answer3": "Prescription"
+  },
+  {
+    "id": 2,
+    "question": "Zorba",
+    "answer1": "Bully",
+    "answer2": "Burden",
+    "answer3": "Bull"
+  },
+  {
+    "id": 3,
+    "question": "Belirsiz",
+    "answer1": "Ambigous",
+    "answer2": "Ambitious",
+    "answer3": "Anxious"
+  },
+  {
+    "id": 4,
+    "question": "İstekli",
+    "answer1": "Eager",
+    "answer2": "Eagle",
+    "answer3": "Enable"
+  },
+  {
+    "id": 5,
+    "question": "Sarsıntı / Dürtü",
+    "answer1": "Jolt",
+    "answer2": "Table",
+    "answer3": "Pencil"
+  },
+  {
+    "id": 6,
+    "question": "Öğle vakti",
+    "answer1": "Noonday",
+    "answer2": "Morning",
+    "answer3": "Afternoon"
+  },
+  {
+    "id": 7,
+    "question": "Sokağa çıkma yasağı / Karantina",
+    "answer1": "Lockdown",
+    "answer2": "Knock out",
+    "answer3": "Float"
+  },
+  {
+    "id": 8,
+    "question": "Benzemek",
+    "answer1": "Resemble",
+    "answer2": "Unify",
+    "answer3": "Simplify"
+  },
+  {
+    "id": 9,
+    "question": "Aşama",
+    "answer1": "Stage",
+    "answer2": "Stone",
+    "answer3": "Stick"
+  },
+  {
+    "id": 10,
+    "question": "Şart koşmak / Şartları belirlemek",
+    "answer1": "Stipulate",
+    "answer2": "Suppress",
+    "answer3": "Success"
+  },
+  {
+    "id": 11,
+    "question": "Konu",
+    "answer1": "Topic",
+    "answer2": "Tense",
+    "answer3": "Tonic"
+  },
+  {
+    "id": 12,
+    "question": "Nadiren / Pek az",
+    "answer1": "Seldom",
+    "answer2": "Probable",
+    "answer3": "Often"
+  },
+  {
+    "id": 13,
+    "question": "İşkence / Eziyet",
+    "answer1": "Torture",
+    "answer2": "Treaty",
+    "answer3": "Threat"
+  },
+  {
+    "id": 14,
+    "question": "Alçak gönüllü",
+    "answer1": "Humble",
+    "answer2": "Bundle",
+    "answer3": "Hidden"
+  },
+  {
+    "id": 15,
+    "question": "Hak etmek",
+    "answer1": "Deserve",
+    "answer2": "Desert",
+    "answer3": "Dessert"
+  },
+  {
+    "id": 16,
+    "question": "Cahil / Bilgisiz",
+    "answer1": "Ignorant",
+    "answer2": "Religion",
+    "answer3": "Cure"
+  },
+  {
+    "id": 17,
+    "question": "Hariç / Dışında",
+    "answer1": "Except",
+    "answer2": "Accept",
+    "answer3": "Expert"
+  },
+  {
+    "id": 18,
+    "question": "Etkilemek",
+    "answer1": "Affect",
+    "answer2": "Effect",
+    "answer3": "Detect"
+  },
+  {
+    "id": 19,
+    "question": "Ele geçirmek",
+    "answer1": "Capture",
+    "answer2": "Correlate",
+    "answer3": "Deny"
+  },
+  {
+    "id": 20,
+    "question": "Etkilemek",
+    "answer1": "Affect",
+    "answer2": "Effect",
+    "answer3": "Detect"
+  },
+  {
+    "id": 21,
+    "question": "Dövüşmek",
+    "answer1": "Combat",
+    "answer2": "Flight",
+    "answer3": "Compress"
+  },
+  {
+    "id": 22,
+    "question": "İlişkisi / Alakası olmak",
+    "answer1": "Correlate",
+    "answer2": "Encompass",
+    "answer3": "Alienate"
+  },
+  {
+    "id": 23,
+    "question": "Yabancılaştırmak",
+    "answer1": "Alienate",
+    "answer2": "Desire",
+    "answer3": "Despite"
+  },
+  {
+    "id": 24,
+    "question": "Gidip getirmek",
+    "answer1": "Fetch",
+    "answer2": "Watch",
+    "answer3": "Fate"
+  },
+  {
+    "id": 25,
+    "question": "İnkar etmek",
+    "answer1": "Deny",
+    "answer2": "Confess",
+    "answer3": "Admit"
+  },
+  {
+    "id": 26,
+    "question": "Arzulamak",
+    "answer1": "Desire",
+    "answer2": "Derive",
+    "answer3": "Desperate"
+  },
+  {
+    "id": 27,
+    "question": "Danışman",
+    "answer1": "Counselor",
+    "answer2": "Commissioner",
+    "answer3": "Adjudicator"
+  },
+  {
+    "id": 28,
+    "question": "Tepki vermek",
+    "answer1": "React",
+    "answer2": "Reflex",
+    "answer3": "Reflect"
+  },
+  {
+    "id": 29,
+    "question": "Dönmek / Döndürmek",
+    "answer1": "Revolve",
+    "answer2": "Collapse",
+    "answer3": "Evolve"
+  },
+  {
+    "id": 30,
+    "question": "Affect",
+    "answer1": "Etkilemek",
+    "answer2": "Bilim kurgu",
+    "answer3": "Terk etmek"
+  },
+  {
+    "id": 31,
+    "question": "Alienate",
+    "answer1": "Yabancılaştırmak",
+    "answer2": "Görmezden gelmek",
+    "answer3": "Çekici olmak"
+  },
+  {
+    "id": 32,
+    "question": "Capture",
+    "answer1": "Ele geçirmek",
+    "answer2": "Mürettebat",
+    "answer3": "Lider olmak"
+  },
+  {
+    "id": 33,
+    "question": "Combat",
+    "answer1": "Dövüşmek",
+    "answer2": "Birleştirmek",
+    "answer3": "Koyulaştırmak"
+  },
+  {
+    "id": 34,
+    "question": "Correlate",
+    "answer1": "İlişkisi olmak",
+    "answer2": "Matematiksel",
+    "answer3": "Gösterişli"
+  },
+  {
+    "id": 35,
+    "question": "Applause",
+    "answer1": "Alkışlamak",
+    "answer2": "Onaylamak",
+    "answer3": "İnkar etmek"
+  },
+  {
+    "id": 36,
+    "question": "Raise",
+    "answer1": "Yükseltmek",
+    "answer2": "Çökertmek",
+    "answer3": "Kapsamak"
+  },
+  {
+    "id": 37,
+    "question": "Compliment",
+    "answer1": "İltifat",
+    "answer2": "İtiraz",
+    "answer3": "İtiraf"
+  },
+  {
+    "id": 38,
+    "question": "Compel",
+    "answer1": "Zorlamak",
+    "answer2": "Hecelemek",
+    "answer3": "Haykırmak"
+  },
+  {
+    "id": 39,
+    "question": "Repugnant",
+    "answer1": "Aykırı",
+    "answer2": "Çekici",
+    "answer3": "Zarif"
+  },
+  {
+    "id": 40,
+    "question": "Disguise",
+    "answer1": "Kılık değiştirmek",
+    "answer2": "Tartışmak",
+    "answer3": "Tartılmak"
+  }
 ]

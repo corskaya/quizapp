@@ -1,143 +1,143 @@
 .btn-warning {
-    border: black solid 1px;
-    height: 100px;
-    margin-top: 50px;
-    font-size: 20px;
+  border: black solid 1px;
+  height: 100px;
+  margin-top: 50px;
+  font-size: 20px;
 }
 
 .question {
-    text-align: center;
+  text-align: center;
 }
 
 .center {
-    margin-top: 60px;
+  margin-top: 60px;
 }
 
 .time {
-    margin: auto;
-    width: 25%;
-    margin-top: 6%;
-    text-align: center;
-    font-size: 18px;
-    background-color: white;
-    padding: 8px;
-    border: black solid 1px;
-    border-radius: 3px;
+  margin: auto;
+  width: 25%;
+  margin-top: 6%;
+  text-align: center;
+  font-size: 18px;
+  background-color: white;
+  padding: 8px;
+  border: black solid 1px;
+  border-radius: 3px;
 }
 
 .correct {
-    font-size: 25px;
-    color: green;
-    text-align: center;
+  font-size: 25px;
+  color: green;
+  text-align: center;
 }
 
 .wrong {
-    font-size: 25px;
-    color: red;
-    text-align: center;
+  font-size: 25px;
+  color: red;
+  text-align: center;
 }
 
 .detector {
-    margin-top: 8%;
+  margin-top: 8%;
 }
 
 .score {
-    margin-top: 8%;
-    font-size: 18px;
-    background-color: #ffc404;
-    padding: 8px;
-    border: black solid 1px;
-    border-radius: 3px;
+  margin-top: 8%;
+  font-size: 18px;
+  background-color: #ffc404;
+  padding: 8px;
+  border: black solid 1px;
+  border-radius: 3px;
 }
 
 .correctCount {
-    margin-top: 8%;
-    font-size: 18px;
-    background-color: #5cb85c;
-    padding: 8px;
-    border: black solid 1px;
-    border-radius: 3px;
+  margin-top: 8%;
+  font-size: 18px;
+  background-color: #5cb85c;
+  padding: 8px;
+  border: black solid 1px;
+  border-radius: 3px;
 }
 
 .wrongCount {
-    margin-top: 8%;
-    font-size: 18px;
-    background-color: #dc3545;
-    padding: 8px;
-    border: black solid 1px;
-    border-radius: 3px;
+  margin-top: 8%;
+  font-size: 18px;
+  background-color: #dc3545;
+  padding: 8px;
+  border: black solid 1px;
+  border-radius: 3px;
 }
 
 .startButton {
-    font-size: 18px;
-    background-color: #5cb85c;
-    padding: 8px;
-    border: black solid 1px;
-    border-radius: 3px;
-    text-align: center;
-    width: 150px;
-    padding: 10px;
+  font-size: 18px;
+  background-color: #5cb85c;
+  padding: 8px;
+  border: black solid 1px;
+  border-radius: 3px;
+  text-align: center;
+  width: 150px;
+  padding: 10px;
 }
 
 .startButtonCenter {
-    margin-top: 50px;
+  margin-top: 50px;
 }
 
 .vocQuiz {
-    text-align: center;
-    margin: auto;
-    margin-top: 23%;
-    background-color: #ffc404;
-    border: black solid 1px;
-    border-radius: 3px;
-    width: 300px;
-    height: 100px;
-    line-height: 70px;
-    padding: 10px;
+  text-align: center;
+  margin: auto;
+  margin-top: 23%;
+  background-color: #ffc404;
+  border: black solid 1px;
+  border-radius: 3px;
+  width: 300px;
+  height: 100px;
+  line-height: 70px;
+  padding: 10px;
 }
 
 .finalScore {
-    width: 50%;
-    margin: auto;
-    margin-top: 8%;
-    font-size: 18px;
-    background-color: #ffc404;
-    padding: 8px;
-    border: black solid 1px;
-    border-radius: 3px;
+  width: 50%;
+  margin: auto;
+  margin-top: 8%;
+  font-size: 18px;
+  background-color: #ffc404;
+  padding: 8px;
+  border: black solid 1px;
+  border-radius: 3px;
 }
 
 .finalCorrect {
-    width: 50%;
-    margin: auto;
-    margin-top: 4%;
-    font-size: 18px;
-    background-color: #5cb85c;
-    padding: 8px;
-    border: black solid 1px;
-    border-radius: 3px;
+  width: 50%;
+  margin: auto;
+  margin-top: 4%;
+  font-size: 18px;
+  background-color: #5cb85c;
+  padding: 8px;
+  border: black solid 1px;
+  border-radius: 3px;
 }
 
 .finalWrong {
-    width: 50%;
-    margin: auto;
-    margin-top: 4%;
-    font-size: 18px;
-    background-color: #dc3545;
-    padding: 8px;
-    border: black solid 1px;
-    border-radius: 3px;
+  width: 50%;
+  margin: auto;
+  margin-top: 4%;
+  font-size: 18px;
+  background-color: #dc3545;
+  padding: 8px;
+  border: black solid 1px;
+  border-radius: 3px;
 }
 
 .timeIsUp {
-    text-align: center;
-    margin-top: 60px;
+  text-align: center;
+  margin-top: 60px;
 }
 
 .tryAgain {
-    margin:auto;
-    margin-top: 10%;
-    font-size: 18px;
-    border: black solid 1px;
-    border-radius: 3px;
+  margin: auto;
+  margin-top: 10%;
+  font-size: 18px;
+  border: black solid 1px;
+  border-radius: 3px;
 }
